@@ -1,0 +1,1 @@
+<view class="infoBox"><image style="width:80vw;height:30vh;" src="{{imgSrc}}"></image><text style="font-size:1rem;font-weight:700;">{{title}}</text><text style="font-size:0.8rem;font-weight:700;color:#999999;">{{infoText}}</text></view>
