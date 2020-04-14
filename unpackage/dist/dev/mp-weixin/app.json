@@ -1,5 +1,6 @@
 {
   "pages": [
+    "pages/commercialTenantIndex/commercialTenantIndex",
     "pages/mine/mine",
     "pages/main/main",
     "components/info",
